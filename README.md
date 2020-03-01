@@ -1,6 +1,6 @@
 # Code-Reengineering
 
-This repository contains all of codes from Code Reengineering Lecture (start from week 2) from lecturer. The detail topics as follows:
+This repository contains all of codes from Code Reengineering Lecture (start from week 2 and will be updated every week execpt GSLC) from lecturer. The detail topics as follows:
 
 Week 2 : Bad Code Smell: The Bloater.
 
